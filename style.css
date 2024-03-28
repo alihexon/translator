@@ -86,3 +86,21 @@ main section textarea {
     font-size: 26px;
   }
 }
+
+@media screen and (max-width: 900px) {
+  .language span {
+    font-size: 16px;
+  }
+
+  .language i {
+    font-size: 24px;
+  }
+
+  .swap-icon {
+    font-size: 20px;
+  }
+
+  main section textarea {
+    font-size: 15px;
+  }
+}
