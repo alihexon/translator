@@ -76,3 +76,13 @@ main section textarea {
 .sf {
   border-radius: 12px;
 }
+
+@media screen and (max-width: 900px) {
+  .language span {
+    font-size: 17px;
+  }
+
+  .language i {
+    font-size: 26px;
+  }
+}
